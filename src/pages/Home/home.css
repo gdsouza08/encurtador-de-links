@@ -67,7 +67,6 @@
     height: 46px;
     background-color: rgb(255, 255, 255, 0.15);
     border: 0;
-    font-family: 'Courier New', Courier, monospace;
     font-size: 22px;
     color: white;
 }
@@ -75,7 +74,7 @@
 .area-input input::placeholder {
     color: white;
     font-size: 22px;
-    font-family: 'Courier New', Courier, monospace;
+    padding-left: 14px;
 }
 
 .area-input button {
@@ -86,7 +85,6 @@
     font-weight: bold;
     background-color: rgb(231, 4, 4);
     border-radius: 4px;
-    font-family: 'Courier New', Courier, monospace;
     border: 0;
     transition: 0.7s;
 }
